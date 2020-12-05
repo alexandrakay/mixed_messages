@@ -38,3 +38,4 @@ function generateRandomNumber(num) {
   }
   
   fortuneFormat(newArray);
+  //call function to format newArray
